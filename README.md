@@ -10,7 +10,7 @@ README.md - This is your readme file, useful information to the user always goes
 index.html - Be sure to keep the index.html file at the top level of the folder, or else GitHub pages will not work properly. Feel free to add more html files here or in a separate folder, as long as the index.html remains at the top level
 img/
 	logo.png
-	~ here you can add any images you would like to include
+	~ here you can put any images you would like to include in your project
 css/
 	style.css - this file you can add your project wide styles
 	~ you can also add more css files if needed
